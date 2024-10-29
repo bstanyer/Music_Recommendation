@@ -1,4 +1,4 @@
-# Music_Recommendation
+# Music Recommendation (Python with Spotify API)
 ### Analyzing Spotify playlist data to recommend songs based on user trends.
 
 This project involved developing a music recommendation system using data from 10,000 Spotify playlists retrieved via Spotify’s API. The playlists were in JSON format, and data was parsed to extract song lists and metadata. By applying association rule mining and correlation analysis, the project aimed to identify patterns and relationships between songs across playlists. The resulting algorithm could recommend a specified number of related songs based on an input song, helping users discover new music tailored to their preferences.
